@@ -101,7 +101,7 @@ Additionally each failed UI example produce a screenshot to ```./results/screens
 - __./entities/\*\*/\*.rb__ - DataGen testdata entities classes.
 - __./pages/\*\*/\*.rb__ - POM PageObjects classes.
 - __./results/__ - a folder with execution results.
-- __./spec/\*\*/\*_spec.rb__ - a folder with tests itselves.
+- __./spec/\*\*/\*\_spec.rb__ - a folder with tests itselves.
 - __./spec/spec_helper.rb__ - a helper file which stores generic RSpec config which requires to each test file.
 - __./tools/__ - a directory for wrappers and helpers used within framework.
 - __./tools/api_wrapper.rb__ - Patch for Airborne gem which porduces proper output.
