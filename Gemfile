@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+gem 'rspec'
+gem 'dotenv'
+gem 'logging'
+gem 'watir'
+gem 'webdrivers'
+gem 'airborne'
+gem 'rspec_junit_formatter'
+gem 'faker'
