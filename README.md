@@ -1,7 +1,7 @@
 # Ruby Automation Framework
 
 An example and boilerplate for Automation Framework based on Ruby (not RoR).
-In mostly cases I'll be using this skeleton for building automation...
+In mostly cases I'll be using this skeleton for building automation on Ruby...
 
 #### Example
 An example shows a partial testing of todoist.com application. There are two specs implemented to display posibilities:
