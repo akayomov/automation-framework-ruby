@@ -26,7 +26,7 @@ It contains ```BasePage``` class, which holds basic needed methods and implement
 For holding additional parameters for page there is an ```@additional``` object, For example ```@additional[:url]``` could be used to store an addition to base url for opening specific page via ```#open``` method.
 
 PageObject implementation should be a class:
-- stored in ```./pages/\*\*/\*.rb``` file
+- stored in ```./pages/**/*.rb``` file
 - extended from ```BasePage```
 - implement private methods as selectors
 - implement public methods as actions
