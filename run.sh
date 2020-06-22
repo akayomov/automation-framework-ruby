@@ -1,0 +1,1 @@
+rvm ruby@default do bundle exec rspec --format RspecJunitFormatter --out ./results/result_$(date +"%Y_%m_%d_%H_%M_%S").xml $*
