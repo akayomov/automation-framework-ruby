@@ -109,7 +109,7 @@ Additionally each failed UI example produce a screenshot to ```./results/screens
 - __./tools/datagen.rb__ - implementation of DataGen, described earlier.
 - __./tools/logger.rb__ - Kernel monkey-patch for implementing Logging gem.
 - __./tools/output_formatter.rb__ - an RSpec Formatter which implements custom output for examples execution to Logging.
-- __./tools/page_object_model.rb - an implementation of ```BasePage``` and ```ClassFactory``` for POM.
+- __./tools/page\_object\_model.rb__ - an implementation of ```BasePage``` and ```ClassFactory``` for POM.
 - __.gitignore__ - generic ignoring for git.
 - __.ci.env__ - default config for CI
 - __Gemfile__ - a file with gem dependencies
